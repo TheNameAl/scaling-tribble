@@ -1,5 +1,7 @@
 # scaling-tribble
 A project may be funny!
+
+the code begin here:
 public void Prime(int n)
 {
    int i;
